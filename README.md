@@ -28,3 +28,9 @@ https://getbootstrap.com/docs/4.4/utilities/shadows/
 
 Bootstrap Utility: Margin & Padding
 https://getbootstrap.com/docs/4.4/utilities/spacing/
+
+Bootstrap Component: Forms
+https://getbootstrap.com/docs/4.4/components/forms/
+
+Bootstrap Component: Input group
+https://getbootstrap.com/docs/4.4/components/input-group/
