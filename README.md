@@ -34,3 +34,10 @@ https://getbootstrap.com/docs/4.4/components/forms/
 
 Bootstrap Component: Input group
 https://getbootstrap.com/docs/4.4/components/input-group/
+
+Bootstrap Components : Navs & Navbar
+https://getbootstrap.com/docs/4.4/components/navs/
+https://getbootstrap.com/docs/4.4/components/navbar/
+
+Bootstrap Utility: Flex
+https://getbootstrap.com/docs/4.4/utilities/flex/
