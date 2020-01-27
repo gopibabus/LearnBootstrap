@@ -41,3 +41,6 @@ https://getbootstrap.com/docs/4.4/components/navbar/
 
 Bootstrap Utility: Flex
 https://getbootstrap.com/docs/4.4/utilities/flex/
+
+Bootstrap layout: Grid
+https://getbootstrap.com/docs/4.4/layout/grid/
