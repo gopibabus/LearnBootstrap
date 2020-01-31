@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Grid Basics-5</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" />
+    <script src="https://kit.fontawesome.com/078c5ccadb.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="container">
+        <h1 class=" display-3 text-center">Forms & The Grid</h1>
+        <h2 class=" display-4 text-center">Forms & the Grid</h2>
+        <form action="#">
+            <div class="form-row">
+                <div class="col-md">
+                    <label for="first_name">First Name:</label>
+                    <input type="text" name="first_name" id="first_name" placeholder="Enter first name..." class="form-control">
+                </div>
+                <div class="col-2-md">
+                    <label for="middle_name">M.I:</label>
+                    <input type="text" name="middle_name" id="middle_name" placeholder="Enter middle name..." class="form-control">
+                </div>
+                <div class="col-md">
+                    <label for="last_name">Last Name:</label>
+                    <input type="text" name="last_name" id="last_name" placeholder="Enter last name..." class="form-control">
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="col">
+                    <label for="address">Address</label>
+                    <input type="text" name="address" id="address" class="form-control" placeholder="123 ABC street">
+                </div>
+            </div>
+        </form>
+    </div>
+    <div class="container-fluid">
+        <h2 class="display-4 text-center">Nested Form Grid</h2>
+        <div class="row">
+            <div class="col"></div>
+            <div class="col">
+                <form action="#">
+                    <div class="form-row">
+                        <div class="col-md">
+                            <label for="first_name">First Name:</label>
+                            <input type="text" name="first_name" id="first_name" placeholder="first name..." class="form-control">
+                        </div>
+                        <div class="col-2-md">
+                            <label for="middle_name">M.I:</label>
+                            <input type="text" name="middle_name" id="middle_name" placeholder="middle name..." class="form-control">
+                        </div>
+                        <div class="col-md">
+                            <label for="last_name">Last Name:</label>
+                            <input type="text" name="last_name" id="last_name" placeholder="last name..." class="form-control">
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="col">
+                            <label for="address">Address</label>
+                            <input type="text" name="address" id="address" class="form-control" placeholder="123 ABC street">
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+</body>
+
+</html>
