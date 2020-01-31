@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Bootstrap List Groups</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" />
+    <script src="https://kit.fontawesome.com/078c5ccadb.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="container">
+        <h1 class="text-center display-3"> List Groups</h1>
+        <h2 class="text-center display-4">Simple List Groups</h2>
+        <ul class="list-group">
+            <li class="list-group-item active">list group item 1</li>
+            <li class="list-group-item disabled">list group item 2</li>
+            <li class="list-group-item">list group item 3</li>
+        </ul>
+
+        <h2 class="text-center display-4"> List Groups with action items</h2>
+        <ul class="list-group">
+            <a href="#" class="list-group-item list-group-item-action active">Action item 1</a>
+            <a href="#" class="list-group-item list-group-item-action disabled">Action item 2</a>
+            <a href="#" class="list-group-item list-group-item-action">Action item 3</a>
+        </ul>
+
+        <h2 class="text-center display-4"> List Groups Flush</h2>
+        <ul class="list-group list-group-flush">
+            <a href="#" class="list-group-item list-group-item-action list-group-item-danger">Action item 1</a>
+            <a href="#" class="list-group-item list-group-item-action list-group-item-info">Action item 2</a>
+            <a href="#" class="list-group-item list-group-item-action list-group-item-success">Action item 3</a>
+        </ul>
+
+        <h2 class="text-center display-4">Flex Utility</h2>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item active d-flex justify-content-between">list group item 1 
+                <span class="text-muted">sub item 1</span></li>
+            <li class="list-group-item disabled d-flex justify-content-between">list group item 2 
+                <span class="text-muted">sub item 2</span></li>
+            <li class="list-group-item d-flex justify-content-between">list group item 
+                <span class="text-muted">sub item 3</span></li>
+        </ul>
+
+        <h2 class="text-center display-4">Grid + List Groups</h2>
+        <div class="row">
+            <div class="col-sm-6 mb-4">
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item active d-flex justify-content-between">list group item 1 
+                        <span class="text-muted">sub item 1</span></li>
+                    <li class="list-group-item disabled d-flex justify-content-between">list group item 2 
+                        <span class="text-muted">sub item 2</span></li>
+                    <li class="list-group-item d-flex justify-content-between">list group item 
+                        <span class="text-muted">sub item 3</span></li>
+                </ul>
+            </div>
+            <div class="col-sm-6 mb-4">
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item active d-flex justify-content-between">list group item 1 
+                        <span class="text-muted">sub item 1</span></li>
+                    <li class="list-group-item disabled d-flex justify-content-between">list group item 2 
+                        <span class="text-muted">sub item 2</span></li>
+                    <li class="list-group-item d-flex justify-content-between">list group item 
+                        <span class="text-muted">sub item 3</span></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+    
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+</body>
+
+</html>
