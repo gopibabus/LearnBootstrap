@@ -38,9 +38,9 @@
 
 [Bootstrap Component : Cards](https://getbootstrap.com/docs/4.4/components/card/)
 
-[]()
+[Bootstarp Component : Card Images](https://getbootstrap.com/docs/4.4/components/card/#images-1)
 
-[]()
+[Bootstrap Component : Card Layout](https://getbootstrap.com/docs/4.4/components/card/#card-layout)
 
 []()
 
