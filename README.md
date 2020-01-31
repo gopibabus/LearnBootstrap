@@ -1,52 +1,49 @@
 # Bootstrap Essentials
 
-## Templates for styles and settings in Bootstrap
+## Bootstrap Components and Utilities
 
-Bootstrap Utility: Colors
-https://getbootstrap.com/docs/4.4/utilities/colors/
+[Bootstrap Utility: Colors](https://getbootstrap.com/docs/4.4/utilities/colors/)
 
-Bootstrap Component: Buttons
-https://getbootstrap.com/docs/4.4/components/buttons/
+[Bootstrap Component: Buttons](https://getbootstrap.com/docs/4.4/components/buttons/)
 
-Bootstrap Content: Typography
-https://getbootstrap.com/docs/4.4/content/typography/
+[Bootstrap Content: Typography](https://getbootstrap.com/docs/4.4/content/typography/)
 
-Bootstrap Component: Jumbotron
-https://getbootstrap.com/docs/4.4/components/jumbotron/
+[Bootstrap Component: Jumbotron](https://getbootstrap.com/docs/4.4/components/jumbotron/)
 
-Bootstrap layout: Responsive breakpoints
-https://getbootstrap.com/docs/4.4/layout/overview/#responsive-breakpoints
+[Bootstrap layout: Responsive breakpoints](https://getbootstrap.com/docs/4.4/layout/overview/#responsive-breakpoints)
 
-Bootstrap Utility: Display
-https://getbootstrap.com/docs/4.4/utilities/display/
+[Bootstrap Utility: Display](https://getbootstrap.com/docs/4.4/utilities/display/)
 
-Bootstrap Utility: Borders
-https://getbootstrap.com/docs/4.4/utilities/borders/
+[Bootstrap Utility: Borders](https://getbootstrap.com/docs/4.4/utilities/borders/)
 
-Bootstrap Utility: Shadows
-https://getbootstrap.com/docs/4.4/utilities/shadows/
+[Bootstrap Utility: Shadows](https://getbootstrap.com/docs/4.4/utilities/shadows/)
 
-Bootstrap Utility: Margin & Padding
-https://getbootstrap.com/docs/4.4/utilities/spacing/
+[Bootstrap Utility: Margin & Padding](https://getbootstrap.com/docs/4.4/utilities/spacing/)
 
-Bootstrap Component: Forms
-https://getbootstrap.com/docs/4.4/components/forms/
+[Bootstrap Component: Forms](https://getbootstrap.com/docs/4.4/components/forms/)
 
-Bootstrap Component: Input group
-https://getbootstrap.com/docs/4.4/components/input-group/
+[Bootstrap Component: Input group](https://getbootstrap.com/docs/4.4/components/input-group/)
 
-Bootstrap Components : Navs & Navbar
-https://getbootstrap.com/docs/4.4/components/navs/
-https://getbootstrap.com/docs/4.4/components/navbar/
+[Bootstrap Components : Navs](https://getbootstrap.com/docs/4.4/components/navs/)
 
-Bootstrap Utility: Flex
-https://getbootstrap.com/docs/4.4/utilities/flex/
+[Bootstrap Components : Navbar](https://getbootstrap.com/docs/4.4/components/navbar/)
 
-Bootstrap layout: Grid
-https://getbootstrap.com/docs/4.4/layout/grid/
+[Bootstrap Utility: Flex](https://getbootstrap.com/docs/4.4/utilities/flex/)
 
-Bootstrap Component : Form grid
-https://getbootstrap.com/docs/4.0/components/forms/#form-grid
+[Bootstrap layout: Grid](https://getbootstrap.com/docs/4.4/layout/grid/)
 
-Bootstrap component : List Groups
-https://getbootstrap.com/docs/4.4/components/list-group/
+[Bootstrap Component : Form grid](https://getbootstrap.com/docs/4.0/components/forms/#form-grid)
+
+[Bootstrap Component : List Groups](https://getbootstrap.com/docs/4.4/components/list-group/)
+
+[Bootstrap Component : Cards](https://getbootstrap.com/docs/4.4/components/card/)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
