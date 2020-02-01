@@ -50,3 +50,4 @@
 
 [Bootstrap Component : Pagination](https://getbootstrap.com/docs/4.4/components/pagination/)
 
+[Bootstrap Component : Progress](https://getbootstrap.com/docs/4.4/components/progress/)
