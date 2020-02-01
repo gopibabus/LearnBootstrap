@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Dropdowns</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" />
+    <script src="https://kit.fontawesome.com/078c5ccadb.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="container">
+        <h1 class="text-center display-3">Dropdowns</h1>
+        <h2 class="text-center display-4">Simple Dropdowns</h2>
+        <div class="dropdown my-3">
+            <button class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+                Regular Dropdown Button
+            </button>
+            <div class="dropdown-menu">
+                <a href="#" class="dropdown-item">Item 1</a>
+                <a href="#" class="dropdown-item">Item 2</a>
+                <a href="#" class="dropdown-item">Item 3</a>
+            </div>
+        </div>
+        <div class="dropdown my-3">
+            <button class="btn btn-lg btn-primary dropdown-toggle" data-toggle="dropdown">
+                Large Dropdown Button
+            </button>
+            <div class="dropdown-menu">
+                <a href="#" class="dropdown-item">Item 1</a>
+                <a href="#" class="dropdown-item">Item 2</a>
+                <a href="#" class="dropdown-item">Item 3</a>
+            </div>
+        </div>
+
+        <h2 class="text-center display-4">Simple Dropups</h2>
+        <div class="dropup my-3">
+            <button class="btn btn-lg btn-primary dropdown-toggle" data-toggle="dropdown">
+                Large Dropup Button
+            </button>
+            <div class="dropdown-menu">
+                <h5 class="dropdown-heading">Heading</h5>
+                <a href="#" class="dropdown-item active">Item 1</a>
+                <a href="#" class="dropdown-item">Item 2</a>
+                <a href="#" class="dropdown-item">Item 3</a>
+                <div class="dropdown-divider"></div>
+                <a href="#" class="dropdown-item">Item 4</a>
+                <a href="#" class="dropdown-item">Item 5</a>
+            </div>
+        </div>
+        <h2 class="text-center display-4">Forms in Dropdown</h2>
+        <div class="dropdown my-3">
+            <button class="btn btn-lg btn-primary dropdown-toggle" data-toggle="dropdown">
+                Large Dropup Button
+            </button>
+            <div class="dropdown-menu">
+                <form class="px-4 py-3">
+                    <div class="form-group">
+                        <label for="exampleDropdownFormEmail1">Email address</label>
+                        <input type="email" class="form-control" id="exampleDropdownFormEmail1"
+                            placeholder="email@example.com">
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleDropdownFormPassword1">Password</label>
+                        <input type="password" class="form-control" id="exampleDropdownFormPassword1"
+                            placeholder="Password">
+                    </div>
+                    <div class="form-group">
+                        <div class="form-check">
+                            <input type="checkbox" class="form-check-input" id="dropdownCheck">
+                            <label class="form-check-label" for="dropdownCheck">
+                                Remember me
+                            </label>
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Sign in</button>
+                </form>
+                <div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="#">New around here? Sign up</a>
+                <a class="dropdown-item" href="#">Forgot password?</a>
+            </div>
+        </div>
+        <h2 class="text-center display-4">Split Buttons</h2>
+        <div class="btn-group">
+            <button type="button" class="btn btn-danger">Action</button>
+            <button type="button" class="btn btn-danger dropdown-toggle dropdown-toggle-split" data-toggle="dropdown"
+                aria-haspopup="true" aria-expanded="false">
+                <span class="sr-only">Toggle Dropdown</span>
+            </button>
+            <div class="dropdown-menu">
+                <a class="dropdown-item" href="#">Action</a>
+                <a class="dropdown-item" href="#">Another action</a>
+                <a class="dropdown-item" href="#">Something else here</a>
+                <div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="#">Separated link</a>
+            </div>
+        </div>
+
+        <h2 class="text-center display-4">Navs with Dropdowns</h2>
+        <ul class="nav nav-tabs">
+            <li class="nav-item">
+                <a class="nav-link" href="#">Active</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link active" href="#">Link</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+            </li>
+            <li class="nav-item dropright">
+                <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true"
+                    aria-expanded="false">Dropdown</a>
+                <div class="dropdown-menu">
+                    <a class="dropdown-item" href="#">Action</a>
+                    <a class="dropdown-item" href="#">Another action</a>
+                    <a class="dropdown-item" href="#">Something else here</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="#">Separated link</a>
+                </div>
+            </li>
+        </ul>
+    </div>
+
+
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+</body>
+
+</html>
