@@ -1,6 +1,6 @@
 # Bootstrap Essentials
 
-## Bootstrap Components and Utilities
+## CSS
 
 [Bootstrap Utility: Colors](https://getbootstrap.com/docs/4.4/utilities/colors/)
 
@@ -51,3 +51,7 @@
 [Bootstrap Component : Pagination](https://getbootstrap.com/docs/4.4/components/pagination/)
 
 [Bootstrap Component : Progress](https://getbootstrap.com/docs/4.4/components/progress/)
+
+## JS
+
+[Bootstrap Component : Alerts](https://getbootstrap.com/docs/4.4/components/alerts/)
