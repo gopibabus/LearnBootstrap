@@ -58,3 +58,6 @@
 
 [Bootstrap Component : Tooltips](https://getbootstrap.com/docs/4.4/components/tooltips/)
 
+[Bootstrap Component : Popovers](https://getbootstrap.com/docs/4.4/components/popovers/)
+
+
