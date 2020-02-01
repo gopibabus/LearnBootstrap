@@ -55,3 +55,6 @@
 ## JS
 
 [Bootstrap Component : Alerts](https://getbootstrap.com/docs/4.4/components/alerts/)
+
+[Bootstrap Component : Tooltips](https://getbootstrap.com/docs/4.4/components/tooltips/)
+
