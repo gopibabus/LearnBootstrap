@@ -42,7 +42,7 @@
 
 [Bootstrap Component : Card Layout](https://getbootstrap.com/docs/4.4/components/card/#card-layout)
 
-[]()
+[Bootstrap Component : Badges](https://getbootstrap.com/docs/4.4/components/badge/)
 
 []()
 
