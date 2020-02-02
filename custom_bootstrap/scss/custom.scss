@@ -1,0 +1,12 @@
+//customize colors
+// import bootstrap
+$theme-colors : (
+"primary": purple,
+"secondary" : pink,
+"success": white,
+"danger" : brown,
+"dark" : black,
+"light" : grey
+);
+@import "../bootstrap/scss/bootstrap";
+
