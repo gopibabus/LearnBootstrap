@@ -1,11 +1,12 @@
 body {
   background: pink;
   font-family: "Nunito", sans-serif; }
-  body nav#main_navbar a.navbar-brand {
-    color: #EA1C2C;
+  body #main_navbar {
     font-size: 1.5rem;
     font-weight: 100; }
-  body nav#main_navbar div#main_navbar_links .nav-item {
-    color: #EA1C2C;
-    font-size: 1.5rem;
-    font-weight: 100; }
+    body #main_navbar .navbar-brand {
+      color: #ea1c2c; }
+    body #main_navbar .nav-link {
+      color: white; }
+    body #main_navbar .nav-link:hover {
+      color: #ea1c2c; }
