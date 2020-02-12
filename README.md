@@ -1,5 +1,13 @@
 # Bootstrap Essentials
 
+## Instructions to deploy
+
+```
+npm install
+
+gulp sass
+```
+
 ## CSS
 
 [Bootstrap Utility: Colors](https://getbootstrap.com/docs/4.4/utilities/colors/)
