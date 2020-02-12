@@ -3,6 +3,8 @@
 ## Instructions to deploy
 
 ```
+gi pull origin master
+
 npm install
 
 gulp sass
